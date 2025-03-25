@@ -4,10 +4,10 @@
 I'm a **Back-End Developer** specialized in **Java**. I focus on building scalable, high-performance web applications. I enjoy problem-solving, optimizing code, and learning new technologies to improve my craft.
 
 ## 🚀 Technologies & Skills
-- **Programming:** Java, Spring Boot, Hibernate
+- **Programming:** Java, Spring Boot, Hibernate, Servlets/JSP
 - **Databases:** OracleDB
 - **Version Control:** Git, GitHub
-- **Other:** REST APIs, Docker
+- **Other:** REST APIs 
 
 ## 📖 What I'm Learning
 - Advanced **Java Streams & Java Future**

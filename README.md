@@ -26,7 +26,7 @@ I'm a **Back-End Developer** specialized in **Java**. I focus on building scalab
 - Improving **problem-solving** and **data structures & algorithms**
 
 ## 📫 How to Reach Me
-- **GitHub:** [Your GitHub Profile](https://github.com/AbdurahmanHussien)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abdurhman-hussien1965/)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/aabdo.hussien167)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdurhman-hussien1965/)
 
 Let's connect and collaborate on amazing projects! 🚀

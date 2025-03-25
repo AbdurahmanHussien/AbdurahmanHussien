@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Back-End Developer!
 
-<!--
-**AbdurahmanHussien/AbdurahmanHussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a **Back-End Developer** specialized in **Java**. I focus on building scalable, high-performance web applications. I enjoy problem-solving, optimizing code, and learning new technologies to improve my craft.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Skills
+- **Programming:** Java, Spring Boot, Hibernate
+- **Databases:** OracleDB
+- **Version Control:** Git, GitHub
+- **Other:** REST APIs, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 What I'm Learning
+- Advanced **Java Streams & Java Future**
+- Front-end basics (**HTML, CSS**)
+- Improving **problem-solving** and **data structures & algorithms**
+
+## 📫 How to Reach Me
+- **GitHub:** [Your GitHub Profile](https://github.com/AbdurahmanHussien)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abdurhman-hussien1965/)
+
+Let's connect and collaborate on amazing projects! 🚀

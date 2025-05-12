@@ -33,11 +33,11 @@ I always explore new tools and improve my skills
 
 ---
 
-## 🔍 Currently Learning
-- Java Streams and Concurrency (**CompletableFuture, ExecutorService**)  
+## 🔍 Currently Learning 
 - Clean Architecture and SOLID Principles  
 - Front-End Basics (**HTML, CSS**)  
 - Data Structures and Algorithms
+- Caching, Docker, Kafka
 
 ---
 

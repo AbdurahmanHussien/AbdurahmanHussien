@@ -22,11 +22,12 @@ I always explore new tools and improve my skills
 
 ---
 
-## 🔍 Currently Learning 
-- Clean Architecture and SOLID Principles  
-- Front-End Basics (**HTML, CSS**)  
+## 🔍 Currently Learning   
+- Front-End Basics (**HTML, CSS,TypeScript,Angular**)  
 - Data Structures and Algorithms
 - Caching, Docker, Kafka
+- Agile Methodologies
+- 
 
 ---
 

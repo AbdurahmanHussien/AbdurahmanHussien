@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdurhman — Back-End Developer
+# 👋 Hi, I'm Abdurhman — Java Developer
 
 ## 🧠 About Me
 I’m a Back-End Developer specialized in **Java**  
@@ -24,10 +24,9 @@ I always explore new tools and improve my skills
 
 ## 🔍 Currently Learning   
 - Front-End Basics (**HTML, CSS,TypeScript,Angular**)  
-- Data Structures and Algorithms
-- Caching, Docker, Kafka
+- Microservices
 - Agile Methodologies
-- 
+  
 
 ---
 

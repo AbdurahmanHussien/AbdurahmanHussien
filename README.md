@@ -8,7 +8,7 @@ I always explore new tools and improve my skills
 
 ## ⚙️ Tech Stack
 
-### 🧑‍💻 Programming & Frameworks
+### 🧑‍💻 Backend Programming & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)  ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)  ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### 🗃 Databases & ORM

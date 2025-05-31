@@ -35,6 +35,15 @@ I always explore new tools and improve my skills
   
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+
+
+
+---
 
 ## 💪 Practice Profiles
 - [HackerRank](https://www.hackerrank.com/profile/abdo_hussien1231)  
@@ -44,5 +53,6 @@ I always explore new tools and improve my skills
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/abdurhman-hussien1965/)  
-- [Facebook](https://www.facebook.com/aabdo.hussien167)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdurhman-hussien1965/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:abdo.hussien123.ah@gmail.com)
+

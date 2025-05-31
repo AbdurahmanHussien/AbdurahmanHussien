@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Abdurhman — Java Developer
+# 👋 Hi, I'm Abdurhman — Java Developer                                                                                          ![visitors](https://komarev.com/ghpvc/?username=AbdurahmanHussien&color=blue)
 
 ## 🧠 About Me
 I’m a Back-End Developer specialized in **Java**  
 I build scalable, high-performance web applications  
 I focus on clean code, optimization, and solving complex problems  
 I always explore new tools and improve my skills
+
 
 ## ⚙️ Tech Stack
 
@@ -26,6 +27,7 @@ I always explore new tools and improve my skills
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurahmanHussien&layout=compact&theme=tokyonight)
 ---
 
 ## 🔍 Currently Learning   
@@ -35,7 +37,7 @@ I always explore new tools and improve my skills
   
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurahmanHussien&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurahmanHussien&layout=compact&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdurahmanHussien&theme=tokyonight) ![visitors](https://komarev.com/ghpvc/?username=AbdurahmanHussien&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurahmanHussien&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdurahmanHussien&theme=tokyonight)
 
 
 

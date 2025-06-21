@@ -37,7 +37,7 @@ I always explore new tools and improve my skills
   
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurahmanHussien&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdurahmanHussien&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurahmanHussien&show_icons=true&theme=tokyonight)
 
 
 
